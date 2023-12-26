@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+}
+
+fieldset{
+    color: #000;
+width: 98%;
+height: 700px;
+margin: auto;
+padding-top: 20px;
+}
+legend{
+    font-size: 28px;
+}
+form{  
+    padding: 20px;
+    margin: auto; 
+    margin-top: 100px;        
+ width: 80%;
+ background-color: cornflowerblue;
+    
+}
+label,input,select{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.t{
+    margin-left: 315px;
+}
+.t1{
+   width: 100px;
+}
+.t2{
+    width: 50px;
+}
+.t3{
+    margin-left: 310px;
+}
+label{
+    margin-left: 300px;
+}
+.r1{
+    margin-left: 0px;
+}
+
